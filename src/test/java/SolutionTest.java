@@ -12,5 +12,7 @@ public class SolutionTest {
 		assertEquals("Alex, Jacob and 2 others like this", Solution.whoLikesIt("Alex", "Jacob", "Mark", "Max"));
 	}
 
-	/*change*/
+	/*change 2*/
+	/*change 3*/
+
 }

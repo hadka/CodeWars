@@ -1,6 +1,6 @@
 import org.apache.commons.lang3.StringUtils;
 
-public class Kata {
+public class StringExpander {
 
 	public static String expandedForm(int num) {
 
